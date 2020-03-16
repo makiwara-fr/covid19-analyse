@@ -1,2 +1,3 @@
 *.ipynb
-./COVID-19/
+.ipynb_checkpoints/
+COVID-19/
